@@ -2,7 +2,7 @@
 <html lang="zh">  
 <head>  
     <meta charset="UTF-8">  
-    <title>自我介绍</title>  
+    <title>self-introduction</title>  
     <style>  
         body {  
             font: 20px sans-serif;  
@@ -66,6 +66,7 @@
                 <h4><strong>Personal Information</strong></h4>  
                 <div style="display: flex; align-items: center;"> <!-- Add a container for the image and text -->  
                     <img src="https://i.postimg.cc/QN9RBNck/202322.jpg" alt=""> <!-- Move the image to the container -->  
+                    <img src="https://i.postimg.cc/rp3nL0Zb/2e6646c79edb7e62ea2e7a42cf15381.jpg" alt=""> 
                 </div>  
                 <p style="margin-left: auto;"> <!-- Add some margin to push the text to the right of the image -->  
                     <p>  
